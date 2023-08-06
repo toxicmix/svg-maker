@@ -11,4 +11,5 @@ Command line tool to generate an svg logo and write it to file.
   - Logo will be written to `logo.svg` in the working directory.
 - Run tests with `npm run test`
 
-
+## Video
+https://youtu.be/ChJoev5Uz-w
